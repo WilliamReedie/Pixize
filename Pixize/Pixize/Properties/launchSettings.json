@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Pixize": {
+      "commandName": "Project",
+      "commandLineArgs": "hello"
+    }
+  }
+}
