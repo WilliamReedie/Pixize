@@ -1,0 +1,8 @@
+﻿<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+	<Package Id="WilliamReedie.Pixize.Installer" Name="Pixize" Manufacturer="William Reedie" Version="1.0.0">
+		<MajorUpgrade DowngradeErrorMessage="A newer version of Pixize is already installed." />
+		<Feature Id="Main">
+			<Files Include="C:\Users\willi\Documents\GitHub\Pixize\Pixize\Pixize\bin\Release\net8.0\*" Directory="INSTALLFOLDER" />
+		</Feature>
+	</Package>
+</Wix>
