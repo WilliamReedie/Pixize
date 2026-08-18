@@ -38,3 +38,7 @@ will produce testx3.png
 
 If no scale argument is provided, will default to 2x
 
+
+
+github repo available at https://github.com/WilliamReedie/Pixize
+
